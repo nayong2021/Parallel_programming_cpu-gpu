@@ -1,0 +1,17 @@
+==========st201720707 on Linux===================================
+==========compilation=============================
+make: Nothing to be done for 'default'.
+==========testing=================================
+==========server outputs===================
+==========stdout==========
+timer: testing  ../multisrv 5 in testdir on Linux ---------------
+==========stderr==========
+timer: received Interrupt
+timer: interrupted
+timer: user 3 ms system 0 ms 
+timer: messages sent: 0 received: 0
+timer: max resident set: 1624 page faults: major 0 minor: 117
+==========driver outputs===================
+usage: driver [port number]
+ ./driver
+==========done====================================
